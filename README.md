@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vibhumeh
-- 👀 I’m interested in solidity
-- 🌱 I’m currently learning python and java. (also solidity)
+- 👀 I’m interested in AI and blockchain technologies
+- 🌱 I’m currently learning python and java. (also solidity,rust)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
